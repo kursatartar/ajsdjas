@@ -1,0 +1,13 @@
+post get delete put işlemleri araştır
+
+post x get fark
+
+http 
+
+web service
+
+rest 
+
+xml json
+
+github branch pull push merge repo**
